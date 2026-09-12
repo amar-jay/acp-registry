@@ -1,0 +1,19 @@
+{
+  "id": "muse-code",
+  "name": "Muse Code",
+  "version": "0.1.0",
+  "description": "Meta Superintelligence Labs' terminal coding agent, in beta since August 5, with ACP support via Agentic Control Plane.",
+  "repository": "https://github.com/agentic-control-plane/muse-code-acp-plugin",
+  "website": "https://github.com/agentic-control-plane/muse-code-acp-plugin",
+  "authors": [
+    "Agentic Control Plane"
+  ],
+  "license": "MIT",
+  "license_url": "https://github.com/agentic-control-plane/muse-code-acp-plugin/blob/main/LICENSE",
+  "icon": "./icon.svg",
+  "distribution": {
+    "npx": {
+      "package": "@agenticcontrolplane/muse-code@0.1.0"
+    }
+  }
+}
