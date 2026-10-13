@@ -1,7 +1,7 @@
 {
   "id": "muse-code",
   "name": "Muse Code",
-  "version": "0.6.1",
+  "version": "0.10.0",
   "description": "An unofficial ACP adapter for Meta's Muse Code terminal coding agent.",
   "repository": "https://github.com/bex-co/muse-code-acp",
   "website": "https://github.com/bex-co/muse-code-acp",
